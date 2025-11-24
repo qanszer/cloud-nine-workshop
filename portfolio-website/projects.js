@@ -2,22 +2,22 @@
 
 const projects = [
   {
-    title: "Project One",
-    description: "A beautiful website built with HTML, CSS, and JavaScript",
-    tags: ["HTML", "CSS", "JavaScript"],
-    link: "#",
+    title: "Odin Landing Page Exercise",
+    description: "An exercise from theodinproject's foundational course at the end of the css section",
+    tags: ["HTML", "CSS"],
+    link: "https://qanszer.github.io/odin-landing-page/",
   },
   {
-    title: "Project Two",
-    description: "An interactive web app with Tailwind CSS styling",
-    tags: ["JavaScript", "Tailwind", "Web App"],
-    link: "#",
+    title: "Student Management System",
+    description: "An app that lets a professor manage his student's grades; built on Visual Studio",
+    tags: ["C#"],
+    link: "https://github.com/qanszer/student-management-system",
   },
   {
-    title: "Project Three",
-    description: "A responsive portfolio website for a client",
-    tags: ["HTML", "CSS", "Responsive"],
-    link: "#",
+    title: "Linux Ubuntu Setup",
+    description: "My customized linux setup that significantly improved my workflow. I use it as my daily driver",
+    tags: ["Linux", "Ubuntu", "Customization"],
+    link: "https://ibb.co/Pvjwxczz",
     },
 
 
